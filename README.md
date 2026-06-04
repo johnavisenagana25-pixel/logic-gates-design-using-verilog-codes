@@ -43,6 +43,18 @@ Simulation results verified the correct functionality of all logic gates accordi
 * Testbench creation
 * Waveform analysis
 
-## 👨‍💻 Author
+## 👨‍💻 Full NAME/Author
 
 Jahnavi Senagana
+
+## CodeTech IT Solutions InternID :
+* CITS2440
+  
+## NO.OF Weeks : 4
+
+## Project Name : 
+* Logic Gates Design Using Verilog
+
+## Project Scope :
+* VLSI
+
